@@ -1,6 +1,6 @@
 De‑Geschiedenispodcast‑Website
 
-Dit project heb ik gemaakt tijdens mijn opleiding webdeveloper.
+Dit project heb ik gemaakt tijdens mijn opleiding websiteproductie
 
 Functionaliteit:
 Eén pagina website met banner, titel, navigatiebalk en achtergrondafbeelding.
